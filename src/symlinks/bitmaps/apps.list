@@ -139,6 +139,7 @@ cheese.png org.gnome.Cheese.png
 chess.png glchess.png
 chess.png gnome-chess.png
 chess.png gnome-glchess.png
+chess.png knights.png
 chess.png pychess.png
 chess.png tagua.png
 chromium-browser.png chromium.png
@@ -204,6 +205,7 @@ emerald.png emerald-theme-manager.png
 empathy.png org.gnome.Empathy.png
 emule.png amule.png
 espeak.png espeak-gui.png
+espeak.png kmouth.png
 eufloria.png eufloriahd.png
 eufloria.png steam_icon_41210.png
 extensions.png 67EF_addoninstaller.0.png
@@ -297,6 +299,7 @@ gnome-weather.png org.gnome.Weather.Application.png
 gnome-weather.png org.gnome.Weather.png
 gnome-weather.png org.gnome.Weather.png
 gnomines.png gnome-mines.png
+gnomines.png kmines.png
 gnomines.png winemine.png
 gnomines.png org.gnome.Mines.png
 gnu-r.png jabref.png
@@ -434,6 +437,7 @@ libreoffice.png libreoffice4.2-startcenter.png
 libreoffice.png libreoffice4.2.png
 libreoffice.png ooo.png
 libreoffice.png org.libreoffice.LibreOffice.startcenter.png
+linguist-qt4.png linguist-qt5.png
 logviewer.png gnome-logs.png
 logviewer.png gpk-log.png
 logviewer.png logview.png
@@ -443,6 +447,7 @@ logviewer.png org.gnome.Logs.png
 lollypop.png org.gnome.Lollypop.png
 lollypop.png org.gnome.Lollypop.png
 mahjongg.png gnome-mahjongg.png
+mahjongg.png kmahjongg.png
 mahjongg.png org.gnome.Mahjongg.png
 mathematica.png wolfram-mathematica.png
 maxthon.png maxthon-browser.png
@@ -529,6 +534,7 @@ panel.png tint2conf.png
 passwords.png 1password.png
 passwords.png enpass.png
 passwords.png gnome-encfs-manager.png
+passwords.png kwalletmanager.png
 passwords.png password.png
 passwords.png preferences-desktop-user-password.png
 passwords.png revelation.png
@@ -624,6 +630,7 @@ preferences-system-power.png xfpm-ac-adapter.png
 preferences-system-privacy.png activity-log-manager.png
 preferences-system-privacy.png cs-privacy.png
 preferences-system-search.png catfish.png
+preferences-system-search.png kfind.png
 preferences-system-search.png recoll.png
 preferences-system-search.png search.png
 preferences-system-search.png system-search.png
@@ -664,9 +671,11 @@ python.png python3.4.png
 qr-creator.png qreator.png
 qr-creator.png qrqt.png
 remote-desktop.png gnome-remote-desktop.png
+remote-desktop.png krdc.png
 remote-desktop.png NoMachine.png
 remote-desktop.png preferences-desktop-remote-desktop.png
 remote-desktop.png remmina.png
+screenruler.png kruler.png
 samba.png system-config-samba.png
 screenruler.png screenruler-icon.png
 selinux.png setroubleshoot_icon.png
@@ -680,6 +689,7 @@ session-properties.png mate-session-properties.png
 session-properties.png preferences-system-session-services.png
 session-properties.png preferences-system-session.png
 session-properties.png system-config-services.png
+simple-scan.png skanlite.png
 shutter.png shutter-panel.png
 skype.png ghetto-skype.png
 skype.png skypeforlinux.png
@@ -731,6 +741,7 @@ system-remixer.png uck.png
 system-software-install.png appgrid.png
 system-software-install.png aptdaemon-download.png
 system-software-install.png aptdaemon-working.png
+system-software-install.png plasmadiscover.png
 system-software-install.png lubuntu-software-center.png
 system-software-install.png software-center.png
 system-software-install.png softwarecenter.png
